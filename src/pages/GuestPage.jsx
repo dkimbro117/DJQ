@@ -100,7 +100,7 @@ export default function GuestPage({ navigateTo }) {
     <main className="guest-request-shell">
       <div className="guest-request-container">
         <section className="guest-request-header">
-          <p className="guest-request-label">DJ HIGH CALIBER</p>
+          <p className="guest-request-label">DJ Assistant</p>
           <h1 className="guest-request-title">Request a song</h1>
           <p className="guest-request-subline">Drop your track — I'll work it in</p>
           <p className="guest-live-row">
